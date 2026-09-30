@@ -1,5 +1,5 @@
 import requests
-import os 
+
 
 sites = ["http://www.google.com", "http://www.github.com", "http://www.stackoverflow.com"]
 
